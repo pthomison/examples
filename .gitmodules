@@ -1,0 +1,3 @@
+[submodule "example-vue"]
+	path = example-vue
+	url = git@github.com:pthomison/example-vue.git
