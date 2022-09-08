@@ -1,3 +1,9 @@
 [submodule "example-vue"]
 	path = example-vue
 	url = git@github.com:pthomison/example-vue.git
+[submodule "example-golang-websockets"]
+	path = example-golang-websockets
+	url = git@github.com:pthomison/example-golang-websockets.git
+[submodule "example-vue-pinia"]
+	path = example-vue-pinia
+	url = git@github.com:pthomison/example-vue-pinia.git
