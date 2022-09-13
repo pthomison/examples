@@ -13,3 +13,6 @@
 [submodule "example-vue-router"]
 	path = example-vue-router
 	url = git@github.com:pthomison/example-vue-router.git
+[submodule "example-golang-gorm-api"]
+	path = example-golang-gorm-api
+	url = git@github.com:pthomison/example-golang-gorm-api.git
