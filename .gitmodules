@@ -16,3 +16,6 @@
 [submodule "example-golang-gorm-api"]
 	path = example-golang-gorm-api
 	url = git@github.com:pthomison/example-golang-gorm-api.git
+[submodule "example-golang-webforms"]
+	path = example-golang-webforms
+	url = git@github.com:pthomison/example-golang-webforms.git
