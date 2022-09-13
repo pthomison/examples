@@ -19,3 +19,6 @@
 [submodule "example-golang-webforms"]
 	path = example-golang-webforms
 	url = git@github.com:pthomison/example-golang-webforms.git
+[submodule "example-golang-wasm"]
+	path = example-golang-wasm
+	url = git@github.com:pthomison/example-golang-wasm.git
