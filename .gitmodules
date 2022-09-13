@@ -10,3 +10,6 @@
 [submodule "example-webpack"]
 	path = example-webpack
 	url = git@github.com:pthomison/example-webpack.git
+[submodule "example-vue-router"]
+	path = example-vue-router
+	url = git@github.com:pthomison/example-vue-router.git
