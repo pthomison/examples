@@ -7,3 +7,6 @@
 [submodule "example-vue-pinia"]
 	path = example-vue-pinia
 	url = git@github.com:pthomison/example-vue-pinia.git
+[submodule "example-webpack"]
+	path = example-webpack
+	url = git@github.com:pthomison/example-webpack.git
