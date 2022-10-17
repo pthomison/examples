@@ -22,3 +22,6 @@
 [submodule "example-golang-wasm"]
 	path = example-golang-wasm
 	url = git@github.com:pthomison/example-golang-wasm.git
+[submodule "example-tensorflow-nlp"]
+	path = example-tensorflow-nlp
+	url = git@github.com:pthomison/example-tensorflow-nlp.git
