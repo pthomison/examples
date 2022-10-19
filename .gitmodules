@@ -25,3 +25,6 @@
 [submodule "example-tensorflow-nlp"]
 	path = example-tensorflow-nlp
 	url = git@github.com:pthomison/example-tensorflow-nlp.git
+[submodule "example-webpack-typescript"]
+	path = example-webpack-typescript
+	url = git@github.com:pthomison/example-webpack-typescript.git
