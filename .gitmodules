@@ -28,3 +28,6 @@
 [submodule "example-webpack-typescript"]
 	path = example-webpack-typescript
 	url = git@github.com:pthomison/example-webpack-typescript.git
+[submodule "example-golang-viper"]
+	path = example-golang-viper
+	url = git@github.com:pthomison/example-golang-viper.git
