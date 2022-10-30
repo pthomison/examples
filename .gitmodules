@@ -31,3 +31,6 @@
 [submodule "example-golang-viper"]
 	path = example-golang-viper
 	url = git@github.com:pthomison/example-golang-viper.git
+[submodule "example-goreleaser-service"]
+	path = example-goreleaser-service
+	url = git@github.com:pthomison/example-goreleaser-service.git
