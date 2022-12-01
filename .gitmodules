@@ -34,3 +34,6 @@
 [submodule "example-goreleaser-service"]
 	path = example-goreleaser-service
 	url = git@github.com:pthomison/example-goreleaser-service.git
+[submodule "example-golang-scanner"]
+	path = example-golang-scanner
+	url = git@github.com:pthomison/example-golang-scanner.git
